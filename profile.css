@@ -7,3 +7,9 @@ body{
   font-family:"Meiryo UI";
   background-color:	#FFFACD;
 }
+
+h2{
+  font-family:”Meiryo UI”;
+  color:#ffa500;
+  font-weight:700;
+}
